@@ -13,5 +13,5 @@ This is a simple String Calculator App implemented in Ruby using TDD (Test-Drive
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/anshk1717/string_calculator_app
+   git clone https://github.com/anshk1717/string_calculator_app.git
    cd string_calculator
